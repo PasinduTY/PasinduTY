@@ -17,10 +17,10 @@
    <h3>Language and Tools:</h3>
   </p>
   <p align="center">
-  <img alt=".NET" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" />
+  <img alt=".NET" width="50px" src="https://img.icons8.com/color/240/dot-net.png" />
   <img alt="Blazor" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" />
   <img alt="Azure" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-  <img alt="Azure Cosmos DB" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/azurecosmosdb.svg" />
+  <img alt="Azure Cosmos DB" width="50px" src="https://img.icons8.com/color/240/azure-cosmos-db.png" />
 
   <img  alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img  alt="Visual Studio" width="50px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />
