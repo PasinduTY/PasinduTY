@@ -1,16 +1,12 @@
-<h1 align="center"> <b>Hi, I am Pasindu Siriwardena...</b></h1>
+<h2 align="center"> <b>Hi!!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Pasindu Siriwardena...</b></h2>
 
-<h4>Hi!!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm a IT Undergraduate.</h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PasinduTY&label=Profile%20views&color=0e75b6&style=flat" alt="PasinduTY" /> </p>
-
-- 🔭 I’m currently studying at University of Moratuwa.
-- 🌱 I’m currently learning everything.
-- 👯 Driven by a dual love for AI and software, I am an enthusiast who engineers the future.
+- 🎓 Graduate – University of Moratuwa
+- 🛠️ Hands-on experience with .NET, React, Blazor, Azure, and Agile practices. 
+- 👨‍💻 Software Engineering Intern – Creative Software.
 - 🤔 All of my projects are available at https://github.com/PasinduTY
 - 📫 How to reach me: pasindutysiriwardena@gmail.com & https://pasinduty.netlify.app/
   <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=21&color=00EBF7&width=550&lines=Passionate%2C+Enthusiastic+and+Skilled+Undergraduate;Creative%2C+Smart+and+Easy-going+Individual;Responsible+Student+and+Quick+Learner"></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=21&color=00EBF7&width=550&lines=Passionate%2C+Enthusiastic+and+Skilled+Graduate;Creative%2C+Smart+and+Easy-going+Individual;Responsible+Student+and+Quick+Learner"></a>
   </p>
   Connect with me: 
   <img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width=30pcx>
@@ -48,6 +44,3 @@
 
 <p  align="center" width="400"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=PasinduTY&show_icons=true&theme=radical&layout=compact" alt="PasinduTY" /></p>
 
-<p align="center" width="400">&nbsp;<img  src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduTY&show_icons=true&theme=radical" alt="PasinduTY" /></p>
-
-<p align="center" width="400"><img src="https://github-readme-stats.vercel.app/api?username=PasinduTY&show_icons=true&theme=radical" alt="PasinduTY" /></p>
